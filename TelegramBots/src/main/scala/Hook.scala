@@ -15,7 +15,7 @@ object Hook extends IOApp {
   val botUrl: String = "https://7053-92-244-246-150.ngrok.io"
   val kelvinConst: Double = 273.15
 
-  val botToken: String = "1665267577:AAEuGJXDqzTBRgXqep2u334lt1IKJEg82s4"
+  val botToken: String = "1665267577:"
   val apiToken = "00f9e3657c5e27452ca64743fd445b89"
 
   val weatherUrl = "http://api.openweathermap.org/data/2.5/weather"
