@@ -1,0 +1,7 @@
+# Project exclude paths
+/project/target/
+/SimpleEffects/target/
+/SimpleEffects/target/scala-2.12/classes/
+/target/
+/TelegramBots/target/
+/TelegramBots/target/scala-2.12/classes/
